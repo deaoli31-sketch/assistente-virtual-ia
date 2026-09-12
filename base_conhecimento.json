@@ -1,0 +1,21 @@
+[
+  {
+    "categoria": "Rede",
+    "problema": "vpn nao conecta",
+    "palavras_chave": [
+      "vpn",
+      "acesso remoto",
+      "conexao remota"
+    ],
+    "solucao": "Verifique sua conexão com a internet e confirme suas credenciais."
+  },
+  {
+    "categoria": "Email",
+    "problema": "outlook nao abre",
+    "palavras_chave": [
+      "outlook",
+      "email"
+    ],
+    "solucao": "Execute o Outlook em modo seguro e reinicie o computador."
+  }
+]
